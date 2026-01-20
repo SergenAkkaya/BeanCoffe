@@ -1,1 +1,1 @@
-Demo : https://sergenakkaya.com/BeanCoffee/index.html
+Demo : [www.sergenakkaya.com.tr](https://www.sergenakkaya.com.tr/project/beancoffe)
